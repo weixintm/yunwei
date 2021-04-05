@@ -1,13 +1,13 @@
 
 define(function(require, exports, module) {
-	require('../layer/skin/layer.css');	
-	var $ = require("jquery"),layer = require("layer/layer"),yunweiScroll = require("yunwei/scroll");
+	require('./layer.css');	
+	var $ = require("jquery"),layer = require("layer"),yunweiScroll = require("scroll");
 
 	checkForm = function(){
 		var handle = $(arguments[0]);
 		var name = handle.find('input[name=name]');
 		var mobile = handle.find('input[name=mobile]');
-		var region = handle.find('.region');
+		var region = handle.find('region');
 		var address = handle.find('input[name=address]');
 		var qq = handle.find('input[name=qq]');
 		var mail = handle.find('input[name=mail]');
