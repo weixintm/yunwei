@@ -1,0 +1,52 @@
+
+*{margin:0;padding:0;}
+body{margin:0;padding:0;background-image:url("https://p6-tt-ipv6.byteimg.com/origin/pgc-image/4a453940584946548bebdbe3d530b8cd");background-attachment:fixed;background-size:cover;background-position:center;font:14px/1.5 "Helvetica Neue", Helvetica, Arial, "Microsoft Yahei", serif}
+h1{font-size:20px}
+h2{font-size:16px}
+a{color:#EB5F3E;text-decoration:none}
+a:hover{text-decoration:underline}
+.label{background:#EB5F3E;padding:5px 8px;border-radius:3px;font-size:12px;color:#fff;vertical-align:middle}
+.wrapper{background-color:#f1f1f1;background-color:rgba(255, 255, 255, .2);max-width:750px;margin:0 auto}
+.header{padding:10px 20px;border-bottom:1px solid #ccc;border-bottom:1px solid rgba(255, 255, 255, .1);color:#fff;}
+.yunwei-detail-content{padding:0 10px;}
+.yunwei-page{padding:1px 0}
+.yunwei-page img{max-width:100%;}
+.yunwei-page .box{margin:15px 10px;padding:5px 0;background:#fff}
+.yunwei-page .box a:hover{text-decoration:none}
+.yunwei-page .box a:hover span{text-decoration:underline}
+.yunwei-page .box a:hover .label{text-decoration:none}
+.yunwei-page .box h2.title{margin:0;padding:5px 10px;border-bottom:1px solid #ccc;font-weight:normal;background: url(vline.jpg) no-repeat 15px center;padding-left: 27px;}
+.yunwei-page .box-image .box-content{text-align:center;}
+.yunwei-page .box .box-content table.links{margin-top:-1px;width:100%;border-spacing:0;border-collapse:collapse}
+.yunwei-page .box .box-content table.links td{padding:3px 3px 3px 10px;border:1px solid #ddd;border-left:0}
+.yunwei-page .box .box-content table.links td:nth-child(2){border-left:1px solid #ddd;border-right:0}
+.yunwei-page .box .box-content table.links td a{display:block}
+.yunwei-page .box-image{padding-bottom:0 !important;}
+.yunwei-page .yunwei-order{border-bottom:none;}
+.yunwei-remark{color:#ccc;padding-top:10px;}
+.yunwei-footer{color:#fff;text-align:center;border-top:none;background:none;}
+.yunwei-footer a{color:#fff;}
+.yunwei-footer p{padding:0 0 20px 0;font-size:12px}
+
+.yunwei-plug {height:54px;color:#fff;overflow:hidden;}
+.yunwei-plug .price{float:left;height:54px;width:60%;background: #f61d4b;vertical-align:bottom;}
+.yunwei-plug .price .symbol{float:left;vertical-align:bottom;padding-top:28px;}
+.yunwei-plug .current-price{float:left;font-size:45px;line-height:54px;vertical-align:bottom;letter-spacing:-3px;}
+.yunwei-plug .group{float:left;margin-left:5px;}
+.yunwei-plug .original-price{padding-top:5px;line-height:20px;vertical-align:top;display:block;}
+.yunwei-plug .salenum{line-height:20px;vertical-align:bottom;height: 25px;line-height: 25px;padding: 2px;background: #ca032e;border-radius: 1px;}
+.yunwei-plug .timer{float:left;height:54px;width:40%;background: #eee;color:#555;text-align:center;line-height:20px;font-weight:bold;}
+.yunwei-plug .timer .tt{padding-top:5px;color:#f00;}
+
+.yunwei-content-title{padding:15px;border-bottom:1px solid #eee;}
+.baoyou{ height:25px;line-height:25px; border-bottom:1px #eee solid;overflow:hidden; padding:10px 0 10px 10px;}
+.baoyou span{padding-left:18px; float:left; margin-right:10px; display:inline; font-size:10px;background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABoAAAAYCAMAAADTXB33AAAAaVBMVEUAAAD6IV76IV74Hl35HV3yG1f6IF/5IF71HVv6IF75H135IF75IF75IF76IF74H174H133HFv2HFz6IF76IF36H175IF76IV75IF34Hlz4Hl72IFv2IF36H1zMADO/AED5IF75IV/6IF8yblojAAAAInRSTlMA+upLKxLxzxiZe+bZtJRyaR4bxo9irY12RUQ4NzIFBKlWRq3aTAAAAN5JREFUKM9t0NuWgyAMBdDEGUHkpqi9dzo9//+RbQWK1ubBhW4M4VCu0FkjhLG+p3U1ihFL1mv5EQCGvT+o/w/pAHbNcmubF4C+rpowDvEcAR0+pPqdVwp8/S6B4baSZ2i+C1kMz+dfvRUy2D/FynojJOCJ7jGGIrdbJmpfVsRDzA1HimZKtxEmjZGsnDPAxuFDtCIB6F45MVT84KPEgOa7OvCFVnVhuHe8/VJ6DZECOjL0uchZg4/5ZWKw6tMvisFT2XiqAEjXtk4CqE7L9vXISMVjSrrgtJNVJXfTGx5lKhHS+63qqQAAAABJRU5ErkJggg==) no-repeat left center;background-size:16px 15px;-webkit-background-size: 16px 15px;}
+.gou{margin: 5px;height: 45px;background: #c60a1e;border-radius: 3px;font-size: 18px;color: #fff;text-align: center;line-height: 45px;}
+.gou a{color:#fff;font-size:18px;text-decoration:none;}
+.yunweiDay strong:after{font-size:15px;content:'天 '}
+.comment-title{display:none;}
+
+@media(max-width:600px){
+	.yunwei-page .box{margin:5px 0px;}
+}	
+.yunwei-detail-content h2{border-color:#eee !important;}
