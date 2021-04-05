@@ -1,0 +1,13 @@
+
+
+.yunwei-order .yunwei-rows{position:relative;padding-top:.2rem;}
+.yunwei-order .rows-head{position:absolute;left:0;width:5rem;font-weight:normal;border-bottom:none;padding:2px 0;text-align:right;}
+.yunwei-order .rows-params{padding-left:5.5rem;line-height:2rem;}
+.yunwei-order .yunwei-params{border:1px solid #ccc;padding:0 .2rem;}
+.yunwei-order .yunwei-params.yunwei-params-image{padding:.3rem;}
+.yunwei-order select,.yunwei-order  .yunwei-input-text{border-width:1px;padding:0;height:2rem;}
+textarea.yunwei-input-text{height:auto !important;}
+.yunwei-order .yunwei-submit{width:100%;}
+.yunwei-order .rows-id-params.rows-id-params-select .rows-head{display:block;}
+.yunwei-order .rows-id-params.rows-id-params-select .rows-params{margin-left:5.5rem;}
+.yunwei-title{display:none;}
