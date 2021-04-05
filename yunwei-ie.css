@@ -1,0 +1,36 @@
+
+.ellipsis{overflow:hidden;}
+select{margin:3px 0;height:35px;}
+select,.yunwei-input-text {text-indent:3px;line-height:25px;margin-right:1px;}
+.yunwei-order{color:#666;font-size:14px;font-weight:normal;}
+.yunwei-quantity-readonly{width:40px;}
+.yunwei-content{padding:8px;}
+.yunwei-brief{border-bottom:10px;}
+.yunwei-brief img{max-width:100%;}
+.yunwei-main{float:left;width: 66.66666666666666%;}
+.yunwei-side{float:left;width: 33.33333333333333%;overflow:hidden;}
+.yunwei-title{padding:8px;height:30px;font-size:25px;}
+.yunwei-title .icon-cart,.yunwei-title .icon-shipping{width:25px;height:25px;margin-right:3px;}
+.yunwei-params{padding:5px;}
+.yunwei-rows{padding-top:5px;}
+.rows-head{margin-bottom:3px;padding:3px 0;font-size:14px;}
+.yunwei-group{padding-left:20px;line-height:25px;padding-right:10px;}
+.yunwei-group-box{width: 15px;padding-top:4px;}
+.yunwei-group-box input + label:after{border:none;}
+.yunwei-quantity,.quantity-inc,.quantity-dec{width:25px;height:25px;font-size:20px;line-height:25px;}
+.yunwei-quantity{padding:0 5px;width:40px;}
+.yunwei-total-price{font-size:25px;}
+.yunwei-alert{padding: 5px;*margin-top:3px;margin-bottom: 15px;border-radius: 4px;}
+.yunwei-btn{padding: 10px;margin-bottom: 0;font-size: 20px;line-height: 20px;border-radius:4px;}
+.yunwei-scroll li{padding:5px;}
+.yunwei-scroll .yunwei-date{float:right;font-size:12px;}
+.yunwei-id-btn{margin-bottom:15px;}
+.rows-id-verify .rows-params *{float:left;}
+.yunwei-badge{padding:2px 3px;border-radius:2px;font-size:12px;height:12px;line-height:12px;margin-left:2px;}
+
+.yunwei-theme-thin .yunwei-rows{padding-top:2px;}
+.yunwei-theme-thin .rows-head{width:80px;}
+.yunwei-theme-thin .rows-params{margin-left:80px;padding:0 5px;}
+.yunwei-theme-thin .yunwei-params.yunwei-params-image{padding:5px;}
+.yunwei-theme-thin select,.yunwei-theme-thin  .yunwei-input-text{border-width:1px;padding:0;height:25px;}
+.yunwei-theme-thin .rows-id-params-select .rows-params{margin-left:80px;}
