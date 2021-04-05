@@ -1,0 +1,135 @@
+.page-title{position:relative;font-size:15px;line-height:22px;text-align:left;border-bottom:1px solid #e5e5e5;padding:10px 8px 15px;word-wrap:break-word;word-break:break-all}.page-title p{text-indent:40px;letter-spacing:1px}.page-title span.icon{position:absolute;left:8px;top:12px;font-size:12px;font-weight:400;background:#fc2d44;color:#fff;padding:0 5px;line-height:18px;border-radius:10px}
+.good-services{font-size:12px;margin-top:15px;border-bottom:1px solid #e5e5e5;padding:0 0 15px;height:15px;}
+.good-services .item{float:left;text-align:center;width:33.3%}.good-services .item .span-icon{display:inline-block;margin-right:3px;height:16px;vertical-align:sub}
+
+.newbuy {
+	color:#fff;
+	display:block;
+	width:96%;
+	margin:15px auto;
+	overflow:hidden;
+	padding:10px 0px;
+	background:#1aad19;
+	color:#fff;
+	font-size:16px;
+	text-align:center;
+	border-radius:5px;
+	text-shadow:1px 1px 1px #2E3238;
+}
+.todobtn {
+	position:fixed;
+	z-index:1000;
+	bottom:0;
+	display:block;
+	color:#fff;
+	width:100%;
+	padding:14px 0;
+	text-align:center;
+	font-size:20px;
+	font-weight:bolder;
+	text-decoration:none;
+}
+
+
+.notice {
+	margin-top:10px;
+	margin-left:10px;
+	width:230px;
+	height:28px;
+	padding:0 10px;
+	background-color:#cf2a4f;
+	overflow:hidden;
+	position:absolute;
+	z-index:10;
+	filter:alpha(Opacity=60);
+	-moz-opacity:0.7;
+	opacity:0.7;
+	border-radius:15px;
+	box-shadow:#939393 1px 1px 8px 2px;
+}
+.notice ul li {
+	list-style:none;
+	line-height:28px;
+	display:block;
+	white-space:nowrap;
+	text-overflow:ellipsis;
+	overflow:hidden;
+	color:#ffffff;
+	font-size:12px;
+	font-weight:700;
+}
+.timer{padding:20px;text-align:center;font-size:16px;color:#666;}
+.timer .alizi-timer{color: #ff4130; font-size: 20px;font-weight: 700;}
+.timer .aliziDay,.timer .aliziHour,.timer .aliziMinute,.timer .aliziSecond{background:#f61d4b;border-radius:3px;}
+
+.preview-phone-btn-list {
+	position:fixed;
+	left:0;
+	bottom:0;
+	width:100%;
+	height:50px;
+	background-color:#fff;
+	opacity:1;
+	box-shadow:0 0 10px 0 hsla(0,6%,58%,.6);
+	-webkit-box-shadow:0 0 10px 0 hsla(0,6%,58%,.6);
+	text-align:center;
+	visibility:visible;
+	transition:visibility 1s,opacity 1s;
+	-moz-transition:visibility 1s,opacity 1s;
+	-webkit-transition:visibility 1s,opacity 1s;
+	-o-transition:visibility 1s,opacity 1s;
+	z-index:11
+}
+
+.preview-phone-btn-list .main-btn-list {
+	height:100%;
+	width:100%
+}
+.preview-phone-btn-list .main-btn-list>li {
+	float:left;
+	list-style:none;
+	height:100%
+}
+.preview-phone-btn-list .main-btn-list>li:first-child {
+	border-left:none!important
+}
+.preview-phone-btn-list .main-btn-list a {
+	display:block;
+	font-size:15px;
+	line-height:16px;
+	padding-top:17px;
+	color:inherit
+}
+.preview-phone-btn-list .main-btn-list .svg-wrapper {
+	display:inline-block;
+	vertical-align:bottom;
+	margin-right:4px;
+	height:16px
+}
+.preview-phone-btn-list .main-btn-list #contact_msg {
+	border-right:1px solid #e6e6e6
+}
+.preview-phone-btn-list.from-together {
+	padding-left:70px
+}
+.preview-phone-btn-list.from-together .goback {
+	display:block
+}
+.preview-phone-btn-list.from-together.empty {
+	padding-left:0;
+	border-top:1px solid #edeef5
+}
+.preview-phone-btn-list.from-together.empty .goback {
+	width:100%;
+	height:50px;
+	line-height:14px
+}
+.pc .preview-phone-btn-list {
+	left:50%;
+	margin-left:-320px;
+	width:640px
+}
+.fade-out {
+	opacity:0!important;
+	visibility:hidden!important;
+}
